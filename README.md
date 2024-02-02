@@ -19,12 +19,13 @@ A content management system (CMS) interface called Your Workforce makes it simpl
 
 ## Screenshots
 
+![Screenshot](/img/Screenshot1.png)
 
 
 ## Installation
 
 1. Clone the repo:
-   git clone git@github.com:DecodePlaymaker/mystery.git
+   git clone git@github.com:DecodePlaymaker/workforce.git
 
 2. Open in VS Code. If you do not have VS code you must install it.
 
